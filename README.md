@@ -17,7 +17,7 @@ Bu uygulamanın çalışması için aşağıdaki gereksinimlere ihtiyaç vardır
 1. Bu projeyi klonlayın:
 
    ```bash
-   git clone (https://github.com/lukacoder/lukahosting-weppp/)https://github.com/lukacoder/lukahosting-weppp/
+   git clone https://github.com/lukacoder/lukahosting-weppp/
    cd lukahosting-weppp
    python3 weppp.py 
-   '''
+   
